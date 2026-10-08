@@ -1,0 +1,12 @@
+ZAIN.NET — CARA UPLOAD KE GITHUB PAGES
+
+1. Extract ZIP.
+2. Buat / buka repository GitHub.
+3. Add file -> Upload files.
+4. Upload SEMUA file langsung ke ROOT repository (jangan masuk folder lain).
+5. Commit changes.
+6. Settings -> Pages.
+7. Deploy from a branch -> main -> /(root) -> Save.
+8. Tunggu deployment selesai lalu Ctrl+F5.
+
+VERSI: Scrib Universal AI Lokal V1.2
